@@ -7,4 +7,4 @@ I have made some amendments to accomodate easier changes using variables.
 Trading is risky and this bot is extremely simple. If you use this bot you do so at your own risk. Do not investment more than you can afford to lose.
 I am not financial adviser.
 
-I will be adding features to this bot as I follow the rest of Algovives videos.
+I will be adding features to this bot as I follow the rest of Algovibes videos.
