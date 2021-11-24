@@ -6,7 +6,7 @@ import json
 import ta
 import os
 
-#binnance API details
+#binance API details
 API_KEY = os.environ['BINANCE_API']
 SECRET_KEY = os.environ['BINANCE_SECRET']
 
